@@ -79,13 +79,12 @@ endmodule
 ## RegisterNumber: 23011819 
 
 ## Code:
-![output](/program.jpg)
+![program](https://github.com/MSDharanish-23011819/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147139454/527cbd4d-bc8b-4f19-8e09-1250e2473525)
 ## Truth table:
-![output](/Truth%20table.jpg)
+![Truth table](https://github.com/MSDharanish-23011819/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147139454/aa56dbff-cd7d-47a8-bcbb-e049ab933a84)
 ## RTL Diagram :
-![output](/RTL%20.jpg)
+![RTL ](https://github.com/MSDharanish-23011819/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147139454/13c40066-4d32-4135-92e1-aee3885d1777)
 ## Timing Diagram :
-![output](/Timing%20diagram.jpg)
-
+![Timing diagram](https://github.com/MSDharanish-23011819/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147139454/bdaae9e3-1cc8-4960-848d-d5ee2ec0bfe6)
 ## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
