@@ -78,7 +78,7 @@ endmodule
 ## Developed by: Dharanish MS
 ## RegisterNumber: 23011819 
 
-## Output:
+## Code:
 ![output](/program.jpg)
 ## Truth table:
 ![output](/Truth%20table.jpg)
